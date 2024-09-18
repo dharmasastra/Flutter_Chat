@@ -39,7 +39,7 @@ class ChatBloc extends Bloc<ChatEvent, ChatState> {
   }
 
   Future<void> _getBotResponse() async {
-    await Future.delayed(Duration(seconds: 1));
+    // await Future.delayed(Duration(seconds: 1));
 
     String currentLang = Intl.getCurrentLocale().split('_')[0];
 
