@@ -1,0 +1,3 @@
+
+
+const tabletScreen = 600;

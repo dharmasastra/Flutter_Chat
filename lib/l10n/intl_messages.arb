@@ -1,0 +1,33 @@
+{
+  "@@last_modified": "2024-09-18T21:46:13.008590",
+  "chatWithBot": "Chat with Bot",
+  "@chatWithBot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "typeAMessage": "Type a message",
+  "@typeAMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "user": "User",
+  "@user": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bot": "Bot",
+  "@bot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "switchToEnglish": "Switch to English",
+  "@switchToEnglish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "switchToJapanese": "Switch to Japanese",
+  "@switchToJapanese": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
